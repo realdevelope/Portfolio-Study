@@ -8,7 +8,7 @@
 2. CSS 실무 요소✔
 3. 웹표준, 웹접근성, 웹호환성✔<br>
 4. awesome, google font✔
-5. calc, ease, scale 함수들
-6. linear-gradient
+5. calc, ease, scale 함수들✔
+6. linear-gradient✔
 
 ## 직접 비교 해보세요
